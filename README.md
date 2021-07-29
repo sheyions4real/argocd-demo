@@ -1,2 +1,2 @@
 # argocd-demo
-deployment with argocd
+deployment with argocd a python application
